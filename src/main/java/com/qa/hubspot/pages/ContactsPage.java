@@ -44,5 +44,9 @@ public class ContactsPage extends BasePage {
 		
 		//driver.findElement(createBtn2).click();
 	}
+		public void test()
+		{
+			System.out.println("test me..");
+		}
 
 }
