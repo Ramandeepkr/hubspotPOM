@@ -48,5 +48,9 @@ public class ContactsPage extends BasePage {
 		{
 			System.out.println("test me..");
 		}
+	 	public void testH1()
+		{
+			System.out.println("test me..");
+		}
 
 }
