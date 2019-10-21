@@ -22,5 +22,9 @@ public class DealsPage extends BasePage {
 		{
 			System.out.println(driver.getTitle());
 		}
+	public void getTitleIs()
+		{
+			System.out.println(driver.getTitle());
+		}
 
 }
