@@ -15,6 +15,9 @@ public class DealsPage extends BasePage {
 		{
 			
 		}
+		/**
+		 * this method is used to get the title of a page
+		 */
 		public void getTitle()
 		{
 			System.out.println(driver.getTitle());
