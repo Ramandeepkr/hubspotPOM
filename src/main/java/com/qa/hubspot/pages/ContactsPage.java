@@ -52,5 +52,9 @@ public class ContactsPage extends BasePage {
 		{
 			System.out.println("test me..");
 		}
+	public void testStash()
+		{
+			System.out.println("test stash..");
+		}
 
 }
